@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "AiPPT",
+    "slug": "aippt-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.aippt"
+    },
+    "android": {
+      "package": "com.example.aippt"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
